@@ -18,6 +18,6 @@ This project presents an innovative approach to Cosmos data analysis, deviating 
 | 4.   | **Retrieval Accuracy**  | Achieves k <= 5                           | Attains k <= 8                               |
 
 ## Architecture Diagram:
-<img src="https://github.com/harshitv804/RAG-without-Vector-DB/assets/100853494/d6ea478f-63b4-4495-9acf-8dafba24dca6" width="500"/>
+<img src="https://github.com/harshitv804/RAG-without-Vector-DB/assets/100853494/e2265159-9ec7-4c88-85c9-a2f18ccf14ef" width="500"/>
 
 Special thanks to [Prithiviraj Damodaran](https://github.com/PrithivirajDamodaran/FlashRank) for developing a light-weight and powerful re-ranker.
