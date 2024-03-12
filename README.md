@@ -4,7 +4,7 @@
 
 ## About:
 
-This project presents an innovative approach to Cosmos data analysis, deviating from conventional methods involving embeddings and vector databases. In lieu of these, the project employs a TFID retriever, coupled with a comprehensive long context reordering and a flash reranker. The implementation of this methodology yields noteworthy enhancements in retrieval speed, particularly with a parameter setting of k=8, while maintaining accuracy levels comparable to retrievals conducted through vector databases.
+This project introduces a novel approach to Cosmos data analysis, diverging from conventional techniques reliant on embeddings and vector databases. The methodology employed involves a TFID retriever, complemented by a meticulous long context reordering and a flash reranker. This innovative approach results in a substantial improvement in retrieval speed, particularly noteworthy with a parameter setting of k=8, while concurrently achieving accuracy levels closely aligned with those obtained through vector databases.
 
 ### Check out the live demo on Hugging Face <a href="https://huggingface.co/spaces/harshitv804/RAG-NoVectorDB"><img src="https://static.vecteezy.com/system/resources/previews/009/384/880/non_2x/click-here-button-clipart-design-illustration-free-png.png" width="120" height="auto"></a>
 
