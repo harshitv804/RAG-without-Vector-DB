@@ -1,0 +1,7 @@
+langchain
+streamlit
+langchain-groq
+flashrank
+scikit-learn
+langchain-community
+pypdf
